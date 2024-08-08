@@ -1,0 +1,25 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  justify-content: space-around;
+  padding: 80px 60px 80px 60px;
+  width: 80%;
+  border-radius: 12px;
+}
+#text{
+  width: 50%;
+}
+#nextBox{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+img{
+  width: 180px;
+}
+#hinh{
+  display: flex;
+  justify-content: center;
+}
+
